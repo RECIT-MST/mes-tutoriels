@@ -4,7 +4,7 @@
 
 Ne premier il créer un variable que tu nommeras " Nombre"
 
-![Créer une variable](https://recitmst.qc.ca/local/cache-vignettes/L150xH94/creation_de_variable-5058b-883cf.png?1631291408)
+![Créer une variable](https://drive.google.com/file/d/1xpWsU0MOqC92aGmJPbaPUdsU_XF7xsrQ/view?usp=sharing)
 
 ## Étape 2/6
 
