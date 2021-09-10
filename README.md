@@ -3,7 +3,7 @@
 
 ## Tutoriels
 
-* [Tutoriel compteur] (/mes-tutoriels/tutoriel-compteur)
+* [Tutoriel compteur] (/mes-tutoriels/tutoriel-compteur)   [Accéder au tutoriel du compteur](https://makecode.microbit.org/#tutorial:github:recitmstmam/mes-tutoriels/tutoriel-compteur)
 
 
 
