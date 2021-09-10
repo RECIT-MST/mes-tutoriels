@@ -4,7 +4,7 @@
 
 Ne premier il créer un variable que tu nommeras " Nombre"
 
-```blocks
+![Créer une variable](https://recitmst.qc.ca/local/cache-vignettes/L150xH94/creation_de_variable-5058b-883cf.png?1631291408)
 
 ## Étape 2/6
 
