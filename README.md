@@ -6,16 +6,6 @@
 * [Tutoriel compteur](/mes-tutoriels/tutoriel-compteur)   [Accéder au tutoriel du compteur](https://makecode.microbit.org/#tutorial:github:recitmstmam/mes-tutoriels/tutoriel-compteur)
 
 
-
-## Utiliser comme extension
-
-Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
-
-* ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* cliquez sur **Nouveau projet**
-* cliquez sur **Extensions** dans le menu engrenage
-* recherchez **https://github.com/recitmstmam/mes-tutoriels** et importez
-
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/recitmstmam/mes-tutoriels/workflows/MakeCode/badge.svg)
 
 Éditer ce dépôt dans MakeCode.
