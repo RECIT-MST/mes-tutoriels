@@ -4,7 +4,7 @@
 
 Ne premier il créer un variable que tu nommeras " Nombre"
 
-![Créer une variable](https://drive.google.com/file/d/1xpWsU0MOqC92aGmJPbaPUdsU_XF7xsrQ/view?usp=sharing)
+![Créer une variable](https://drive.google.com/uc?id=1xpWsU0MOqC92aGmJPbaPUdsU_XF7xsrQ)
 
 ## Étape 2/6
 
