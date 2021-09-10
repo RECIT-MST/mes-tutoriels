@@ -3,7 +3,7 @@
 
 ## Tutoriels
 
-*[Tutoriel compteur] (/mes-tutoriels/tutoriel-compteur)
+* [Tutoriel compteur] (/mes-tutoriels/tutoriel-compteur)
 
 
 
