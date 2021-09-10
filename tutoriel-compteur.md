@@ -2,7 +2,7 @@
 
 ## Étape 1/6
 
-Ne premier il créer un variable que tu nommeras " Nombre"
+En premier il créer un variable que tu nommeras " Nombre"
 
 ![Créer une variable](https://drive.google.com/uc?id=1xpWsU0MOqC92aGmJPbaPUdsU_XF7xsrQ)
 
