@@ -10,8 +10,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "tutoriel-compteur.md",
-        "_locales/fr-FR/tutoriel-compteur.md"
+        "tutoriel-compteur.md"
     ],
     "testFiles": [
         "test.ts"
