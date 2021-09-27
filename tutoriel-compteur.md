@@ -2,16 +2,15 @@
 
 ### Markdown Sample
 
-Tutoriel RÉCIT MST!
-
-````markdown
-# Tutoriel RÉCIT MST!
+````Markdown
+# Tutoriel RÉCIT MST
  
 ## Introduction @unplugged
+ 
+Construire ton compteur!
+ 
+![Compteur](https://drive.google.com/uc?id=1H0uVMmrqvSdWm0xzozLm1oho0AgUch62)
 
-RÉCIT MST
-
-![RECITMST](https://drive.google.com/uc?id=1YsdDZIAnwl9ZNGyIEu6d0xQoCtZ8eRXa)
 
 ## Étape 1/6 @showint
 
