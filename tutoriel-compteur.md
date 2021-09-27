@@ -1,13 +1,21 @@
-# tutoriel-compteur
+# Tutoriel compteur
 
 ### Markdown Sample
 
 ````Markdown
-# Tutoriel RECIT MST!
+ 
+## Introduction @unplugged
+
+Ce tutoriel a été créer par :
+ 
+![RECITMST](https://drive.google.com/uc?id=1YsdDZIAnwl9ZNGyIEu6d0xQoCtZ8eRXa)
+ 
  
 ## Introduction @unplugged
  
-![RECITMST](https://drive.google.com/uc?id=1YsdDZIAnwl9ZNGyIEu6d0xQoCtZ8eRXa)
+Construire ton compteur!
+ 
+![Compteur](https://drive.google.com/uc?id=1H0uVMmrqvSdWm0xzozLm1oho0AgUch62)
 
 ## Étape 1/6
 
