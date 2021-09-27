@@ -2,8 +2,10 @@
 
 ### Markdown Sample
 
-````Markdown
-# Tutoriel RÉCIT MST
+Tutoriel RÉCIT MST!
+
+````markdown
+# Tutoriel RÉCIT MST!
  
 ## Introduction @unplugged
  
@@ -12,7 +14,7 @@ Construire ton compteur!
 ![Compteur](https://drive.google.com/uc?id=1H0uVMmrqvSdWm0xzozLm1oho0AgUch62)
 
 
-## Étape 1/6 @showint
+## Étape 1/6
 
 En premier il faut créer un variable que tu nommeras "Nombre"
 
