@@ -47,16 +47,8 @@ input.onButtonPressed(Button.B, function () {
     basic.showNumber(Nombre)
 })
 ```
-### Markdown Sample
 
-## Introduction @unplugged
-
-Construire ton compteur!
- 
-![Compteur](https://drive.google.com/uc?id=1H0uVMmrqvSdWm0xzozLm1oho0AgUch62)
-
-
-## Étape 5/6
+## Étape 5/6 @fullscreen
 
 Il serait pratique que tu puisses remettre à zéro ton compteur en appuyant sur les boutons A+B en même temps.  Tu peux réussir cette étape seule maintenant.
 
