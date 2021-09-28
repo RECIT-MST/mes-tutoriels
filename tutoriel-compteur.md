@@ -60,9 +60,7 @@ input.onButtonPressed(Button.AB, function () {
 ```
 ## @showdialog
 
-Ce tutoriel a été créer par :
- 
-![RECITMST](https://drive.google.com/uc?id=1YsdDZIAnwl9ZNGyIEu6d0xQoCtZ8eRXa)
+Bonjour
 
 ## Étape 6/6 @showhint
 
