@@ -17,7 +17,7 @@ Construis ton compteur!
 
 ## Étape 1/5 @showhint
 
-En premier il faut créer un variable que tu nommeras "Nombre"
+En premier il faut créer une variable que tu nommeras "Nombre"
 
 ![Créer une variable](https://drive.google.com/uc?id=1xpWsU0MOqC92aGmJPbaPUdsU_XF7xsrQ)
 
