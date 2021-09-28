@@ -47,13 +47,14 @@ input.onButtonPressed(Button.B, function () {
     basic.showNumber(Nombre)
 })
 ```
+````markdown
 
 ## Introduction @unplugged
- 
+
 Construire ton compteur!
  
 ![Compteur](https://drive.google.com/uc?id=1H0uVMmrqvSdWm0xzozLm1oho0AgUch62)
-
+````
 
 ## Étape 5/6
 
