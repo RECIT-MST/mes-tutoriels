@@ -27,7 +27,7 @@ let Nombre = 0
 Nombre = 0
 ```
 
-## Étape 3/6 @fullscreen
+## Étape 3/6 @showhint
 
 Pour que ton Micro:bit se transforme en compteur, tu veux qu'à chaque fois que tu appuies sur le bouton A, le nombre augmente de 1 et qu'il s'affiche sur l'écran.  Tu auras besoin de 3 blocs pour réaliser cette étape.
 
@@ -48,7 +48,7 @@ input.onButtonPressed(Button.B, function () {
 })
 ```
 
-## Étape 5/6 @fullscreen
+## Étape 5/6 @showhint
 
 Il serait pratique que tu puisses remettre à zéro ton compteur en appuyant sur les boutons A+B en même temps.  Tu peux réussir cette étape seule maintenant.
 
@@ -62,3 +62,5 @@ input.onButtonPressed(Button.AB, function () {
 ## Étape 6/6 @showhint
 
 FÉLICITATIONS!  Tu as réaliser ton propre compteur avec Micro:bit.  Un nouveau défi serait de compter par bon de 5, de 10 ou plus.  Es-tu prêt à relever ce défi ?
+
+## beau travail @showdialog
