@@ -64,3 +64,5 @@ input.onButtonPressed(Button.AB, function () {
 FÉLICITATIONS!  Tu as réaliser ton propre compteur avec Micro:bit.  Un nouveau défi serait de compter par bon de 5, de 10 ou plus.  Es-tu prêt à relever ce défi ?
 
 ## beau travail @showdialog
+
+Le travail est terminé
