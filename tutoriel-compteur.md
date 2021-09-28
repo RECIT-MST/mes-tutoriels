@@ -58,7 +58,7 @@ input.onButtonPressed(Button.AB, function () {
     basic.showNumber(Nombre)
 })
 ```
-## fin @showdialog
+## @showdialog
 
 Ce tutoriel a été créer par :
  
