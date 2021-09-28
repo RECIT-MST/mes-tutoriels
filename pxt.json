@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "tutoriel-compteur.md"
+        "tutoriel-compteur.md",
+        "Afficher-un-mot.md"
     ],
     "testFiles": [
         "test.ts"
