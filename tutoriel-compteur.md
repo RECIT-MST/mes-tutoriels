@@ -1,7 +1,10 @@
 # Tutoriel compteur
 
-## @showdialog
+```template
+input.onButtonPressed(Button.A, function ())
+```
 
+## @showdialog
 Ce tutoriel a été créer par :
  
 ![RECITMST](https://drive.google.com/uc?id=1YsdDZIAnwl9ZNGyIEu6d0xQoCtZ8eRXa)
@@ -17,10 +20,6 @@ Construis ton compteur!
 En premier il faut créer un variable que tu nommeras "Nombre"
 
 ![Créer une variable](https://drive.google.com/uc?id=1xpWsU0MOqC92aGmJPbaPUdsU_XF7xsrQ)
-
-```template
-input.onButtonPressed(Button.A, function ()
-input.onButtonPressed(Button.B, function ()
 
 
 ## Étape 2/5 @showhint
