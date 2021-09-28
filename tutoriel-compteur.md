@@ -1,12 +1,12 @@
 # Tutoriel compteur
 
-## Introduction @unplugged
+## Introduction @showdialog
 
 Ce tutoriel a été créer par :
  
 ![RECITMST](https://drive.google.com/uc?id=1YsdDZIAnwl9ZNGyIEu6d0xQoCtZ8eRXa)
   
-## Introduction @unplugged
+## Introduction @showdialog
  
 Construire ton compteur!
  
@@ -63,6 +63,6 @@ input.onButtonPressed(Button.AB, function () {
 
 FÉLICITATIONS!  Tu as réaliser ton propre compteur avec Micro:bit.  Un nouveau défi serait de compter par bon de 5, de 10 ou plus.  Es-tu prêt à relever ce défi ?
 
-## beau travail @showdialog
+## Introduction @showdialog
 
 Le travail est terminé
