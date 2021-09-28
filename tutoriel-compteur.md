@@ -30,6 +30,9 @@ Nombre = 0
 ## Étape 3/5 @showhint
 
 Pour que ton Micro:bit se transforme en compteur, tu veux qu'à chaque fois que tu appuies sur le bouton A, le nombre augmente de 1 et qu'il s'affiche sur l'écran.  Tu auras besoin de 3 blocs pour réaliser cette étape.
+```template
+input.onButtonPressed(Button.A, function () 
+
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
