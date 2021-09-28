@@ -18,6 +18,11 @@ En premier il faut créer un variable que tu nommeras "Nombre"
 
 ![Créer une variable](https://drive.google.com/uc?id=1xpWsU0MOqC92aGmJPbaPUdsU_XF7xsrQ)
 
+```template
+input.onButtonPressed(Button.A, function ()
+input.onButtonPressed(Button.B, function ()
+
+
 ## Étape 2/5 @showhint
 
 Par la suite, il faut mettre notre compteur à zéro lors du démarrage du Micro:bit.  Pour ce faire, tu dois ajouter un bloc dans le bloc " Au démarrage"
@@ -30,8 +35,6 @@ Nombre = 0
 ## Étape 3/5 @showhint
 
 Pour que ton Micro:bit se transforme en compteur, tu veux qu'à chaque fois que tu appuies sur le bouton A, le nombre augmente de 1 et qu'il s'affiche sur l'écran.  Tu auras besoin de 3 blocs pour réaliser cette étape.
-```template
-input.onButtonPressed(Button.A, function () 
 
 
 ```blocks
