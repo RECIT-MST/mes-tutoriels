@@ -4,7 +4,7 @@
 ## Tutoriels
 
 * [Visualiser le tutoriel du compteur](/mes-tutoriels/tutoriel-compteur)   [Accéder au tutoriel du compteur](https://makecode.microbit.org/#tutorial:github:recitmstmam/mes-tutoriels/tutoriel-compteur)
-
+* [Visualiser le tutoriel pour Afficher un mot](/mes-tutoriels/Afficher-un-mot)    [Accéder au tutoriel Afficher un mot](https://makecode.microbit.org/#tutorial:github:recitmstmam/mes-tutoriels/Afficher-un-mot)
 
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/recitmstmam/mes-tutoriels/workflows/MakeCode/badge.svg)
 
