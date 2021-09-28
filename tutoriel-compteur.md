@@ -8,7 +8,7 @@ Ce tutoriel a été créer par :
   
 ## @showdialog
  
-Construire ton compteur!
+Construis ton compteur!
  
 ![Compteur](https://drive.google.com/uc?id=1H0uVMmrqvSdWm0xzozLm1oho0AgUch62)
 
