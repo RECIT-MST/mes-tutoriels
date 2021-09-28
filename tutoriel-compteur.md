@@ -24,11 +24,12 @@ En premier il faut créer un variable que tu nommeras "Nombre"
 
 ## Étape 2/5 @showhint
 
-Par la suite, il faut mettre notre compteur à zéro lors du démarrage du Micro:bit.  Pour ce faire, tu dois ajouter un bloc dans le bloc " Au démarrage"
+Par la suite, il faut mettre notre compteur à zéro lors du démarrage du Micro:bit.  Pour ce faire, tu dois placer le bloc ``||variable:définir Nombre à "0"||`` et le bloc ``||basic:montrer nombre "0"||`` dans l'événement ``||basic:au démarrage||`` pour faire afficher la valeur 0.
 
 ```blocks
 let Nombre = 0
 Nombre = 0
+basic.showNumber(Nombre)
 ```
 
 ## Étape 3/5 @showhint
