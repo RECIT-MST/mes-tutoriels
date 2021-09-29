@@ -3,19 +3,19 @@
 ## @showdialog
 Ce tutoriel a été créer par :
  
-![RECITMST](https://drive.google.com/uc?id=1YsdDZIAnwl9ZNGyIEu6d0xQoCtZ8eRXa)
+![RECITMST](https://github.com/recitmstmam/mes-tutoriels/blob/master/images/logomst%20transparant.png?raw=true)
   
 ## @showdialog
  
 Transformez votre Micro:bit en un dé à 6 faces!
  
-![De](https://drive.google.com/uc?id=1FhMGKKPd3NIlBZvboz-pb8bojvV9j4--)
+![De](https://github.com/recitmstmam/mes-tutoriels/blob/master/images/de.gif?raw=true)
 
 ## Étape 1/3
 
 En premier il faut créer une variable que tu nommeras « Chiffre »
 
-![Créer une variable](https://drive.google.com/uc?id=1xpWsU0MOqC92aGmJPbaPUdsU_XF7xsrQ)
+![Créer une variable](https://github.com/recitmstmam/mes-tutoriels/blob/master/images/Cr%C3%A9ation%20de%20variable.gif?raw=true)
 
 ## Étape 2/3
 
