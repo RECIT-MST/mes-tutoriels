@@ -9,7 +9,7 @@ Ce tutoriel a été créer par:
 
 Faire défiler un mot sur le Micro:bit
 
-![Afficher-un-mot](https://github.com/recitmstmam/mes-tutoriels/blob/master/image2/Cr%C3%A9ation%20de%20variable.gif?raw=true)
+![Afficher-un-mot](https://github.com/recitmstmam/mes-tutoriels/blob/master/images/recitmst.gif?raw=true)
 
 ## Étape 1/2
 
