@@ -12,7 +12,8 @@
         "README.md",
         "tutoriel-compteur.md",
         "afficher-mot.md",
-        "de-a-jouer.md"
+        "de-a-jouer.md",
+        "temperature.md"
     ],
     "testFiles": [
         "test.ts"
