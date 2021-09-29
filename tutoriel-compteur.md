@@ -7,19 +7,19 @@ input.onButtonPressed(Button.A, function ())
 ## @showdialog
 Ce tutoriel a été créer par :
  
-![RECITMST](https://github.com/recitmstmam/mes-tutoriels/blob/master/static/logomst%20transparant.png?raw=true)
+![RECITMST](https://github.com/recitmstmam/mes-tutoriels/blob/master/images/logomst%20transparant.png?raw=true)
   
 ## @showdialog
  
 Construis ton compteur!
  
-![Compteur](https://github.com/recitmstmam/mes-tutoriels/blob/master/static/compteur.gif)
+![Compteur](https://github.com/recitmstmam/mes-tutoriels/blob/master/images/compteur.gif?raw=true)
 
 ## Étape 1/5 @showhint
 
 En premier il faut créer une variable que tu nommeras « Nombre »
 
-![Créer une variable](https://drive.google.com/uc?id=1xpWsU0MOqC92aGmJPbaPUdsU_XF7xsrQ)
+![Créer une variable](https://github.com/recitmstmam/mes-tutoriels/blob/master/images/Cr%C3%A9ation%20de%20variable.gif?raw=true)
 
 
 ## Étape 2/5 @showhint
