@@ -19,7 +19,7 @@ En premier il faut créer une variable que tu nommeras « Chiffre »
 
 ## Étape 2/
 
-Par la suite, on désire que lorsqu'on appuie sur le bouton A, le Micro:bit choisisse un nombre au hasard entre 1 et 6 et que ce nombre attribuer à la variable « Chiffre »
+Par la suite, on désire que lorsqu'on appuie sur le bouton A, le Micro:bit ``||math:choisisse un nombre au hasard entre 1 et 6||`` et que ce nombre soit attribuer à la variable « Chiffre »
 
 ```blocks
 let Chiffre = 0
