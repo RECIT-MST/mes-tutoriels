@@ -7,13 +7,13 @@ input.onButtonPressed(Button.A, function ())
 ## @showdialog
 Ce tutoriel a été créer par :
  
-![RECITMST](/static/logomst%20transparant.png)
+![RECITMST](https://github.com/recitmstmam/mes-tutoriels/blob/master/static/logomst%20transparant.png)
   
 ## @showdialog
  
 Construis ton compteur!
  
-![Compteur](https://github.com/RECIT-MST/mes-tutoriels/blob/master/images/compteur)
+![Compteur](https://github.com/recitmstmam/mes-tutoriels/blob/master/static/compteur.gif)
 
 ## Étape 1/5 @showhint
 
