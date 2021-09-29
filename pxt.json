@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "tutoriel-compteur.md",
-        "afficher-mot.md"
+        "afficher-mot.md",
+        "de-a-jouer.md"
     ],
     "testFiles": [
         "test.ts"
