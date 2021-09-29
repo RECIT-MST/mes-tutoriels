@@ -11,13 +11,13 @@ Transformez votre Micro:bit en un dé à 6 faces!
  
 ![De](https://drive.google.com/uc?id=1FhMGKKPd3NIlBZvboz-pb8bojvV9j4--)
 
-## Étape 1/
+## Étape 1/3
 
 En premier il faut créer une variable que tu nommeras « Chiffre »
 
 ![Créer une variable](https://drive.google.com/uc?id=1xpWsU0MOqC92aGmJPbaPUdsU_XF7xsrQ)
 
-## Étape 2/
+## Étape 2/3
 
 Par la suite, on désire que lorsqu'on appuie sur le bouton A, le Micro:bit ``||math:choisisse un nombre au hasard entre 1 et 6||`` et que ce nombre soit attribuer à la variable « Chiffre »
 
@@ -28,7 +28,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-## Étape 3/
+## Étape 3/3
 
 Pour finir, on désire afficher le monbre de la ``||variable:chiffre||`` pendant une seconde et effacer l'écran par la suite.
 
