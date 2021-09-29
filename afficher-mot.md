@@ -3,13 +3,13 @@
 ## @showdialog
 Ce tutoriel a été créer par:
 
-![RECITMST](https://drive.google.com/uc?id=1YsdDZIAnwl9ZNGyIEu6d0xQoCtZ8eRXa)
+![RECITMST](https://github.com/recitmstmam/mes-tutoriels/blob/master/images/logomst%20transparant.png?raw=true)
   
 ## @showdialog
 
 Faire défiler un mot sur le Micro:bit
 
-![Afficher-un-mot](https://drive.google.com/uc?id=12b27EdxCzUXcN1cO107THvChOvC6aqNp)
+![Afficher-un-mot](https://github.com/recitmstmam/mes-tutoriels/blob/master/images/recitmst.gif?raw=true)
 
 ## Étape 1/2
 
