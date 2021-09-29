@@ -7,7 +7,7 @@ input.onButtonPressed(Button.A, function ())
 ## @showdialog
 Ce tutoriel a été créer par :
  
-![RECITMST](https://github.com/recitmstmam/mes-tutoriels/blob/master/static/logomst%20transparant.png)
+![RECITMST](https://github.com/recitmstmam/mes-tutoriels/blob/master/static/logomst%20transparant.png?raw=true)
   
 ## @showdialog
  
