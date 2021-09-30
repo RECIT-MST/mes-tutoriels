@@ -6,7 +6,6 @@
 * [Visualiser le tutoriel du compteur ***** ](/mes-tutoriels/tutoriel-compteur)   [Accéder au tutoriel du compteur](https://makecode.microbit.org/#tutorial:github:recitmstmam/mes-tutoriels/tutoriel-compteur)
 * [Visualiser le tutoriel pour Afficher un mot ***** ](/mes-tutoriels/afficher-mot)    [Accéder au tutoriel Afficher un mot](https://makecode.microbit.org/#tutorial:github:recitmstmam/mes-tutoriels/afficher-mot)
 * [Visualiser le tutoriel du Dé à jouer ***** ](/mes-tutoriels/de-a-jouer)    [Accéder au tutoriel Afficher un mot](https://makecode.microbit.org/#tutorial:github:recitmstmam/mes-tutoriels/de-a-jouer)
-* [Visualiser le tutoriel du Dé à jouer ***** ](/mes-tutoriels/temperature)    [Accéder au tutoriel Afficher un mot](https://makecode.microbit.org/#tutorial:github:recitmstmam/mes-tutoriels/temperature)
 
 
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/recitmstmam/mes-tutoriels/workflows/MakeCode/badge.svg)
